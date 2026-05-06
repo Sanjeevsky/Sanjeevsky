@@ -1,210 +1,208 @@
 <div align="center">
 
-<!-- Animated Header — GitHub dark palette -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:8957e5&height=200&section=header&text=Sanjeevsky&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20API%20Architect%20%7C%20Open%20Source&descAlignY=57&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,70:130025,100:0d0221&height=230&section=header&text=SANJEEVSKY&fontSize=80&fontColor=00f5ff&fontAlignY=45&desc=⚡%20FULL-STACK%20ENGINEER%20%7C%20API%20ARCHITECT%20%7C%20OPEN%20SOURCE%20⚡&descAlignY=68&descColor=ff2d78&animation=twinkling&stroke=00f5ff&strokeWidth=1" />
 
-<!-- Typing SVG — GitHub green -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=680&lines=const+dev+%3D+new+FullStackEngineer(%22Sanjeevsky%22)%3B;%24+git+push+origin+main+--force-with-lease;Building+REST+APIs+%7C+Spring+Boot+%7C+React+%7C+Node.js;%24+docker+build+-t+sanjeevsky%2Fportfolio+.;Always+shipping.+Always+learning.+%E2%9C%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=▸+const+dev+%3D+new+CyberpunkEngineer(%22Sanjeevsky%22)%3B;▸+%24+git+push+origin+main+--force-with-lease;▸+Building+REST+APIs+%7C+Spring+Boot+%7C+React+%7C+Node.js;▸+%24+docker+build+-t+sanjeevsky%2Fportfolio+.;▸+LOADING+NEXT+FEATURE...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sanjeevsky&color=8957e5&style=flat-square&label=profile+views)
-[![GitHub followers](https://img.shields.io/github/followers/Sanjeevsky?label=followers&style=flat-square&color=238636&labelColor=161b22)](https://github.com/Sanjeevsky?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Sanjeevsky?label=total+stars&style=flat-square&color=8957e5&labelColor=161b22)](https://github.com/Sanjeevsky)
-![Status](https://img.shields.io/badge/status-open_to_hire-39d353?style=flat-square&labelColor=161b22)
+![Profile Views](https://komarev.com/ghpvc/?username=Sanjeevsky&color=ff2d78&style=flat-square&label=VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/Sanjeevsky?label=FOLLOWERS&style=flat-square&color=00f5ff&labelColor=0d0221)](https://github.com/Sanjeevsky?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Sanjeevsky?label=STARS&style=flat-square&color=ffd000&labelColor=0d0221)](https://github.com/Sanjeevsky)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_HIRE-39ff14?style=flat-square&labelColor=0d0221)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Sanjeevsky&show_icons=true&theme=github_dark&border_color=30363d&title_color=8957e5&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&count_private=true&rank_icon=github" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Sanjeevsky&show_icons=true&theme=radical&border_color=ff2d78&title_color=00f5ff&icon_color=ffd000&text_color=ffffff&bg_color=0d0221&count_private=true&rank_icon=github&border_radius=8" />
 
-### `> whoami`
+### `> IDENTITY.exe`
 
 ```ts
-const sanjeevsky: Developer = {
-  name:     "Sanjeevsky",
-  role:     "Full-Stack Engineer",
-  location: "India 🇮🇳",
-  github:   "@Sanjeevsky",
+const SANJEEVSKY = {
+  codename  : "⚡ Sanjeevsky",
+  class     : "Full-Stack Engineer",
+  origin    : "India 🇮🇳",
 
-  backend:  ["Spring Boot", "Node.js", "Express.js", "REST APIs"],
-  frontend: ["React", "JavaScript", "HTML5", "CSS3"],
-  database: ["MongoDB", "MySQL", "PostgreSQL"],
-  devops:   ["Docker", "Git", "GitHub Actions"],
+  weapons   : {
+    backend  : ["Spring Boot", "Node.js", "Express", "REST APIs"],
+    frontend : ["React", "JavaScript", "HTML5", "CSS3"],
+    database : ["MongoDB", "MySQL", "PostgreSQL"],
+    devops   : ["Docker", "Git", "GitHub Actions"],
+  },
 
-  building: ["API Sentinel", "Spring Boot E-Commerce"],
-  openTo:   ["Collaborations", "Freelance", "Full-time"],
-  motto:    "Ship fast. Refactor smart. Learn always.",
+  missions  : ["API Sentinel 🛡️", "Spring Boot E-Commerce 🛒"],
+  mode      : ["🤝 Collab", "💼 Freelance", "🚀 Full-time"],
+  protocol  : "Ship fast. Refactor smart. Learn always.",
 };
 ```
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ Tech Stack
+## `> TECH_STACK --list-all`
 
 <div align="center">
 
-**Backend & APIs**
+**`// BACKEND & APIS`**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-161b22?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-8957e5?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=0d0221)
+![Java](https://img.shields.io/badge/Java-ff2d78?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-00f5ff?style=for-the-badge&logo=node.js&logoColor=0d0221)
+![Express.js](https://img.shields.io/badge/Express.js-bf5fff?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-ffd000?style=for-the-badge&logo=fastapi&logoColor=0d0221)
 
-**Frontend**
+**`// FRONTEND`**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd000?style=for-the-badge&logo=javascript&logoColor=0d0221)
+![React](https://img.shields.io/badge/React-00f5ff?style=for-the-badge&logo=react&logoColor=0d0221)
+![HTML5](https://img.shields.io/badge/HTML5-ff2d78?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-bf5fff?style=for-the-badge&logo=css3&logoColor=white)
 
-**Database & DevOps**
+**`// DATABASE & DEVOPS`**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-39ff14?style=for-the-badge&logo=mongodb&logoColor=0d0221)
+![MySQL](https://img.shields.io/badge/MySQL-00f5ff?style=for-the-badge&logo=mysql&logoColor=0d0221)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-bf5fff?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00f5ff?style=for-the-badge&logo=docker&logoColor=0d0221)
+![Git](https://img.shields.io/badge/Git-ff2d78?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ffd000?style=for-the-badge&logo=postman&logoColor=0d0221)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+## `> ls ./projects --featured`
 
-### 🛡️ API Sentinel
-> **Intelligent API monitoring & security gateway — built with Spring Boot**
+### 🛡️ `API_SENTINEL`
+> **Intelligent API monitoring & security gateway — Spring Boot**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-8957e5?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Status](https://img.shields.io/badge/status-active-39d353?style=flat-square&labelColor=161b22)
+![Java](https://img.shields.io/badge/Java-ff2d78?style=flat-square&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00f5ff?style=flat-square&logo=docker&logoColor=0d0221)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-39ff14?style=flat-square&labelColor=0d0221)
 
 ```
 📡  Real-time API health monitoring & uptime tracking
-🔐  Authentication gateway with JWT + API key validation  
+🔐  Auth gateway — JWT + API key validation
 📊  Request analytics — latency, error rates, throughput
-🚨  Alerting system for anomaly detection & rate limiting
-🐳  Docker-ready with configurable Spring Boot profiles
+🚨  Anomaly detection & rate limiting alerts
+🐳  Docker-ready with Spring Boot profiles
 ```
 
-[![View Repo](https://img.shields.io/badge/View_on_GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeevsky/api-sentinel)
-[![API Docs](https://img.shields.io/badge/API_Docs-8957e5?style=for-the-badge&logo=swagger&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/◈_VIEW_REPO-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Sanjeevsky/api-sentinel)
+[![API Docs](https://img.shields.io/badge/◈_API_DOCS-0d0221?style=for-the-badge&logo=swagger&logoColor=ff2d78)](#)
 
 ---
 
-### 🛒 Spring Boot E-Commerce
+### 🛒 `SPRINGBOOT_ECOMMERCE`
 > **Production-grade full-stack e-commerce platform**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Status](https://img.shields.io/badge/status-active-39d353?style=flat-square&labelColor=161b22)
+![React](https://img.shields.io/badge/React-00f5ff?style=flat-square&logo=react&logoColor=0d0221)
+![MySQL](https://img.shields.io/badge/MySQL-ffd000?style=flat-square&logo=mysql&logoColor=0d0221)
+![JWT](https://img.shields.io/badge/JWT-bf5fff?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-39ff14?style=flat-square&labelColor=0d0221)
 
 ```
-🏪  Multi-vendor product catalog with search & filtering
-🛒  Shopping cart, wishlist & order management system
-💳  Payment gateway integration (Razorpay / Stripe)
-🔐  JWT-based auth with role-based access (Admin / User)
-📦  Inventory management & order tracking dashboard
+🏪  Multi-vendor catalog — search, filter, sort
+🛒  Cart, wishlist & order management
+💳  Razorpay / Stripe payment gateway
+🔐  JWT auth — role-based access (Admin / User)
+📦  Inventory management & order tracking
 ```
 
-[![View Repo](https://img.shields.io/badge/View_on_GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeevsky/springboot-ecommerce)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-39d353?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/◈_VIEW_REPO-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Sanjeevsky/springboot-ecommerce)
+[![Live Demo](https://img.shields.io/badge/◈_LIVE_DEMO-0d0221?style=for-the-badge&logo=vercel&logoColor=39ff14)](#)
 
 ---
 
-### Other Projects
+### `// OTHER MISSIONS`
 
 <div align="center">
 
 <a href="https://github.com/Sanjeevsky/WeatherAPP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjeevsky&repo=WeatherAPP&theme=github_dark&border_color=30363d&title_color=8957e5&icon_color=39d353&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjeevsky&repo=WeatherAPP&theme=radical&border_color=ff2d78&title_color=00f5ff&icon_color=ffd000&bg_color=0d0221&border_radius=8" />
 </a>
 &nbsp;
 <a href="https://github.com/Sanjeevsky/NewsFeed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjeevsky&repo=NewsFeed&theme=github_dark&border_color=30363d&title_color=8957e5&icon_color=39d353&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjeevsky&repo=NewsFeed&theme=radical&border_color=ff2d78&title_color=00f5ff&icon_color=ffd000&bg_color=0d0221&border_radius=8" />
 </a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## `> cat github_stats.log`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjeevsky&show_icons=true&theme=github_dark&border_color=30363d&title_color=8957e5&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjeevsky&show_icons=true&theme=radical&border_color=ff2d78&title_color=00f5ff&icon_color=ffd000&text_color=ffffff&bg_color=0d0221&count_private=true&border_radius=8" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevby&layout=compact&theme=github_dark&border_color=30363d&title_color=8957e5&text_color=c9d1d9&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevsky&layout=compact&theme=radical&border_color=ff2d78&title_color=00f5ff&text_color=ffffff&bg_color=0d0221&border_radius=8" />
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sanjeevsky&theme=github-dark-blue&border=30363d&ring=8957e5&fire=f78166&currStreakLabel=8957e5&sideLabels=8b949e&dates=484f58&stroke=30363d)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sanjeevsky&theme=radical&border=ff2d78&ring=00f5ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=bf5fff&dates=ffffff&stroke=ff2d78&background=0d0221&border_radius=8)](https://git.io/streak-stats)
 
 <br/>
 
-<!-- Contribution snake animation — add to your profile workflow -->
 ![Snake animation](https://github.com/Sanjeevsky/Sanjeevsky/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🗂️ Dev Journey
+## `> git log --dev-journey`
 
 ```bash
-$ git log --all --oneline --graph --decorate
-
-* 2025  feat: exploring TypeScript · Next.js · Docker · Kubernetes
-* 2024  feat: ship API Sentinel — Spring Boot monitoring gateway
-* 2024  feat: ship Spring Boot E-Commerce full-stack platform
-* 2024  feat: add React + full-stack MERN architecture
+* 2025  feat: exploring TypeScript · Next.js · Kubernetes · GraphQL · Redis · AWS
+* 2024  feat: ship API Sentinel — Spring Boot monitoring & security gateway
+* 2024  feat: ship Spring Boot E-Commerce — full-stack production platform
+* 2024  feat: add React + full-stack MERN architecture to arsenal
 * 2023  feat: push WeatherAPP + NewsFeed → GitHub
-* 2023  feat: learn Node.js · Express · MongoDB · REST APIs
-* 2022  init: HTML · CSS · JavaScript foundations
+* 2023  feat: master Node.js · Express · MongoDB · REST APIs
+* 2022  init: HTML · CSS · JavaScript foundations installed
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌱 Currently Leveling Up
+## `> apt-get install --next-level`
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00f5ff?style=for-the-badge&logo=typescript&logoColor=0d0221)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=0d0221)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-bf5fff?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-ff2d78?style=for-the-badge&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ff2d78?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ffd000?style=for-the-badge&logo=amazon-aws&logoColor=0d0221)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Connect
+## `> ssh connect@sanjeevsky`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Sanjeevsky-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeevsky)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeevsky)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-8957e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeevsky@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-39d353?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Sanjeevsky)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://linkedin.com/in/sanjeevsky)
+[![Email](https://img.shields.io/badge/◈_EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2d78)](mailto:knit16643@gmail.com)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-0d0221?style=for-the-badge&logo=vercel&logoColor=39ff14)](#)
 
 <br/>
 
 ```
-$ open --collab --freelance --fulltime
+> open --collab --freelance --fulltime
+> CONNECTION ESTABLISHED ✓
+> READY TO SHIP 🚀
 ```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:130025,70:0a0a2e,100:0d0221&height=120&section=footer&animation=twinkling&stroke=ff2d78&strokeWidth=1" />
 
 </div>
