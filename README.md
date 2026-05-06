@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0540,70:0a1628,100:0d0221&height=220&section=header&text=SANJEEVSKY&fontSize=78&fontColor=00f5ff&fontAlignY=40&desc=⚡%20Full-Stack%20Engineer%20%7C%20API%20Architect%20%7C%20Open%20Source%20⚡&descAlignY=62&descColor=ff2d78&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050010,25:3d0070,50:8000cc,75:3d0070,100:050010&height=220&section=header&text=SANJEEVSKY&fontSize=78&fontColor=00f5ff&fontAlignY=40&desc=⚡%20Full-Stack%20Engineer%20%7C%20API%20Architect%20%7C%20Open%20Source%20⚡&descAlignY=62&descColor=ff2d78&animation=fadeIn" />
 
 <br/>
 
@@ -196,4 +196,4 @@ const SANJEEVSKY = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0540,70:0a1628,100:0d0221&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050010,25:3d0070,50:8000cc,75:3d0070,100:050010&height=120&section=footer&animation=fadeIn" />
