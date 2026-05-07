@@ -71,19 +71,33 @@ const sanjeev: Developer = {
 
 ---
 
-### 📊 GitHub Metrics
+<h3 align="center"><i>Activity Graph</i> 📈</h3>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeevsky&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeevsky&theme=react&area=true&hide_border=true#gh-light-mode-only" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeevsky&theme=dracula&area=true&hide_border=true" />
+</picture>
+</p>
+
+<h3 align="center"><i>GitHub Stats</i> 📊</h3>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeevsky&bg_color=0d1117&color=a9fef7&line=fe428e&point=a9fef7&area=true&hide_border=true&custom_title=Sanjeevsky's+Contribution+Graph" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Sanjeevsky&hide_border=true&border_radius=10&background=0D1117&stroke=30363d&ring=A9FEF7&fire=FE428E&currStreakNum=A9FEF7&sideNums=c9d1d9&currStreakLabel=FE428E&sideLabels=A9FEF7&dates=484f58" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sanjeevsky&theme=dracula&hide_border=true#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Sanjeevsky&theme=default&hide_border=true#gh-light-mode-only" />
+  <img src="https://streak-stats.demolab.com?user=Sanjeevsky&theme=dracula&hide_border=true" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjeevsky&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sanjeevsky&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Sanjeevsky&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=6#gh-light-mode-only" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjeevsky&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6" />
+</picture>
 
 </div>
 
