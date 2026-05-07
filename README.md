@@ -79,19 +79,6 @@ const sanjeev: Developer = {
 
 <br/>
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjeevsky&show_icons=true&hide_border=true&count_private=true&title_color=a9fef7&icon_color=fe428e&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevsky&layout=compact&hide_border=true&title_color=a9fef7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</td>
-</tr>
-</table>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Sanjeevsky&hide_border=true&border_radius=10&background=0D1117&stroke=30363d&ring=A9FEF7&fire=FE428E&currStreakNum=A9FEF7&sideNums=c9d1d9&currStreakLabel=FE428E&sideLabels=A9FEF7&dates=484f58" />
 
 <br/><br/>
