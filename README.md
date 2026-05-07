@@ -75,16 +75,28 @@ const sanjeev: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjeevsky&show_icons=true&hide_border=true&count_private=true&title_color=a9fef7&icon_color=fe428e&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Sanjeevsky&hide_border=true&background=0D1117&stroke=30363d&ring=A9FEF7&fire=FE428E&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=484f58" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeevsky&bg_color=0d1117&color=a9fef7&line=fe428e&point=a9fef7&area=true&hide_border=true&custom_title=Sanjeevsky's+Contribution+Graph" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevsky&layout=compact&hide_border=true&title_color=a9fef7&text_color=c9d1d9&bg_color=0d1117" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjeevsky&show_icons=true&hide_border=true&count_private=true&title_color=a9fef7&icon_color=fe428e&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevsky&layout=compact&hide_border=true&title_color=a9fef7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sanjeevsky&hide_border=true&border_radius=10&background=0D1117&stroke=30363d&ring=A9FEF7&fire=FE428E&currStreakNum=A9FEF7&sideNums=c9d1d9&currStreakLabel=FE428E&sideLabels=A9FEF7&dates=484f58" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeevsky&bg_color=0d1117&color=a9fef7&line=fe428e&point=a9fef7&area=true&hide_border=true&custom_title=Contribution%20Timeline" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sanjeevsky&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 </div>
 
@@ -104,10 +116,6 @@ const sanjeev: Developer = {
 
 <div align="center">
 
-```
-⚙️  Open to work — let's build something together
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%" />
+**`⚙️ Open to work — let's build something together`**
 
 </div>
