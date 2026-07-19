@@ -40,7 +40,7 @@ Developer sanjeev = Developer.builder()
 
 ### ⚡ Now
 
-- 🔭 Building **[API Sentinel](https://github.com/sanjeevsky/API-Sentinel)** — real-time API security gateway
+- 🔭 Building **[Reqhawk](https://sanjeevsky.github.io/reqhawk-downloads/)** — free, local-first desktop API client
 - 🌱 Deepening expertise in **Kubernetes** & **AWS**
 - 🧩 Exploring **event-driven microservices** patterns
 - 🤝 Looking to collaborate on **open-source Java/Node projects**
@@ -78,12 +78,12 @@ Developer sanjeev = Developer.builder()
 <tr>
 <td width="50%" valign="top">
 
-#### 🔐 API Sentinel
-Real-time **API monitoring & security gateway** — JWT auth, intelligent rate limiting, anomaly detection engine.
+#### 🦅 Reqhawk
+**Free, local-first desktop API client** — REST, GraphQL, mock server, load testing, WebSocket, SSE, MQTT. No account, no cloud, no subscription.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-DC143C?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
-[→ View Repository](https://github.com/sanjeevsky/API-Sentinel)
+[→ Download Reqhawk](https://sanjeevsky.github.io/reqhawk-downloads/) &nbsp;·&nbsp; [→ Releases](https://github.com/Sanjeevsky/reqhawk-downloads)
 
 </td>
 <td width="50%" valign="top">
