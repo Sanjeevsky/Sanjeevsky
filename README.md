@@ -21,12 +21,12 @@
 
 ### 👋 About
 
-I'm a **Full-Stack Engineer** passionate about designing high-performance backend systems, clean APIs, and resilient architectures. Currently at **Deutsche Telekom Digital Labs** building distributed services at scale.
+I'm a **Full-Stack Engineer** passionate about designing high-performance backend systems, clean APIs, and resilient architectures. Currently at **Ultimate Kronos Group** building distributed services at scale.
 
 ```java
 Developer sanjeev = Developer.builder()
     .role("Backend Engineer")
-    .company("Deutsche Telekom Digital Labs")
+    .company("Ultimate Kronos Group")
     .stack("Java · Spring Boot · Node.js · React")
     .expertise("Microservices · Event-Driven · REST")
     .learning("TypeScript · Kubernetes · AWS")
